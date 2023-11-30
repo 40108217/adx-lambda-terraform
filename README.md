@@ -1,4 +1,4 @@
-# adx-lambda-terraform
+# ADX-Lambda-Terraform
 
 Objective: Ingest the cloudtrail or VPC logs been saved in centralized bin to ADX cluster, as and when new log is uploaded to designated S3. There are 2 Phases to it.
 
